@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PenguinPay</string>
+    <string name="send_money">Send Money</string>
+    <string name="recipient_will_receive">Recipient will receive:</string>
+    <string name="enter_amount">Binary amount</string>
+    <string name="recipient_last_name">Recipient last name</string>
+    <string name="recipient_name">Recipient name</string>
+    <string name="convert">Convert</string>
+</resources>
